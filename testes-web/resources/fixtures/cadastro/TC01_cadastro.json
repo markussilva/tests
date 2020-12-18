@@ -1,0 +1,24 @@
+{
+    "cylindercapacity":"600",
+    "engineperformance":"600",
+    "dateofmanufacture":"12/02/2020",
+    "payload":"2",
+    "totalweight":"400",
+    "listprice":"50000",
+    "annualmileage":"300",
+    "firstname":"Markus",
+    "lastname":"Silva",
+    "birthdate":"22/04/1990",
+    "streetaddress":"cuiaba",
+    "zipcode":"78000000",
+    "website" :"www.testeprova.com" ,
+    "licenseplatenumber":"2",  
+    "startdate":"01/24/2021",
+    "email":"abc@gmail.com",
+    "phone":"9999999999",
+    "username":"markus",
+    "password":"A36370000b",
+    "confirmpassword":"A36370000b",
+    "Comments":"Obrigado por me oferecer o plano"
+
+}
